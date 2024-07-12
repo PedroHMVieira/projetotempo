@@ -1,0 +1,94 @@
+main {
+  text-align: left;
+  border: 10px solid rgb(0, 0, 0);
+  background-color: rgb(112, 175, 228, 0.90);
+  margin: 0 auto;
+  margin-top: 40px;
+  margin-left: 150px;
+  height: 550px;
+  width: 1000px;
+  padding: 100px 20px 150px 20px;
+}
+
+.Fundo {
+  background-image: url(https://www.enelgreenpower.com/content/dam/enel-egp/immagini/learning-hub/gigawhat/articoli/meteo-clima_header_2400x1160.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 1100px;
+}
+
+.Header {
+  background-color: #242531;
+  padding: 1px;
+  border-bottom: 10px solid #ffffff;
+}
+
+.Titulo {
+  color: rgb(255, 255, 255);
+  font-size: 70px;
+  font-family: 'Times New Roman', Times, serif;
+  margin-left: 140px;
+}
+
+.Input {
+  width: 100%;
+  max-width: 400px;
+  padding: 10px;
+  margin: 20px 0;
+  border: 2px solid #000000;
+  border-radius: 5px;
+  font-size: 16px;
+  outline: none;
+  transition: border-color 0.3s ease;
+  background-color: rgb(255, 255, 255);
+}
+
+.Button {
+  align-items: center;
+  background-color: #00ffd5;
+  color: white;
+  padding: 5px 100px;
+  margin: 50px 0;
+  border-color: black;
+  border-width: 05px;
+  font-size: 30px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.Texto {
+
+  font-size: 20px;
+  text-align: left;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  margin-top: 70px;
+}
+
+.Texto2 {
+  font-size: 20px;
+  text-align: right;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  margin-top: -150px;
+}
+
+.Section {
+  text-align: center;
+  border: 10px solid rgb(0, 0, 0);
+  background-color: rgb(112, 175, 228, 0.90);
+  margin: 0 auto;
+  margin-top: -1685px;
+  margin-left: 1350px;
+  height: 550px;
+  width: 500px;
+  padding: 100px 20px 150px 20px;
+
+}
+
+.Grafico {
+  margin-top: 10px;
+  border: 5px solid;
+  border-color: darkblue;
+  border-radius: 6px;
+}
